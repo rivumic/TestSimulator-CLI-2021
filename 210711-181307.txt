@@ -1,0 +1,5 @@
+TF011,14,false,true
+TF001,8,false,true
+TF015,16,true,true
+TF012,14,true,true
+TF016,16,false,true
